@@ -19,18 +19,18 @@
     - [Development Approach](#development-approach)
     - [Data Dictionary Development](#data-dictionary-development)
     - [Outcome](#outcome)
-    - [How to Use the NICHD Data Ecosystem Assessment Data Dictionary v1.2 to Conduct Assessments](#how-to-use-the-nichd-data-ecosystem-assessment-data-dictionary-v1.2-to-conduct-assessments)
+    - [How to Use the NICHD Data Ecosystem Assessment Data Dictionary to Conduct Assessments](#how-to-use)
     - [Notes on Use](#notes-on-use)
 - [User Stories](#user-stories)
 
 <br/><br/>
 
 # Effort Overview 
-<p> The _Eunice Kennedy Shriver_ National Institute of Child Health and Human Development (NICHD) uses and supports a diverse ecosystem of repositories that  share scientific data across maternal, child, and developmental health domains. Systematically assessing these repositories helps NICHD develop strategies to enhance and use these repositories to (1) support NIH data sharing policies and NICHD- and NIH data strategies, (2) foster equitable access and responsible and innovative re-use of shared data, (3) promote trust, transparency, reproducibility, and replicability of NIH-funded research, and (4) meet NICHD and NIH interoperability and sustainability goals while adhering to or strengthening data governance and security requirements. </p>
+The _Eunice Kennedy Shriver_ National Institute of Child Health and Human Development (NICHD) uses and supports a diverse ecosystem of repositories that  share scientific data across maternal, child, and developmental health domains. Systematically assessing these repositories helps NICHD develop strategies to enhance and use these repositories to (1) support NIH data sharing policies and NICHD- and NIH data strategies, (2) foster equitable access and responsible and innovative re-use of shared data, (3) promote trust, transparency, reproducibility, and replicability of NIH-funded research, and (4) meet NICHD and NIH interoperability and sustainability goals while adhering to or strengthening data governance and security requirements. 
 
-<p> This effort is focused on assessing data repositories using  the NICHD Data Ecosystem Assessment Data Dictionary, a standardized set of Ecosystem Assessment Variables (EAVs) used to characterize repository features.  </p> 
+This effort is focused on assessing data repositories using  the NICHD Data Ecosystem Assessment Data Dictionary, a standardized set of Ecosystem Assessment Variables (EAVs) used to characterize repository features. 
 
-<p> NICHD Data Ecosystem Assessment results have been used to populate the [NICHD Data Repository Finders](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/blob/main/README.md) inform requirements for NICHD-funded data repositories, develop recommendations for improving [AI-readiness](https://github.com/NIH-NICHD-Ecosystem/E3_AI-Data-Readiness-Framework/blob/main/README.md) in data repositories, and identify ecosystem gaps based on NICHD research community needs. A syntheses of 25 repository assessments provided actionable opportunities fo r alignment and harmonization of metadata standards, governance practices, access models, and sustainability planning. This is foundational work in NICHD’s development of a diverse, secure, and interoperable data ecosystem. </p> 
+NICHD Data Ecosystem Assessment results have been used to populate the [NICHD Data Repository Finders](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/blob/main/README.md) inform requirements for NICHD-funded data repositories, develop recommendations for improving [AI-readiness](https://github.com/NIH-NICHD-Ecosystem/E3_AI-Data-Readiness-Framework/blob/main/README.md) in data repositories, and identify ecosystem gaps based on NICHD research community needs. A syntheses of 25 repository assessments provided actionable opportunities fo r alignment and harmonization of metadata standards, governance practices, access models, and sustainability planning. This is foundational work in NICHD’s development of a diverse, secure, and interoperable data ecosystem.  
 
 #### Details: 
 Created by: Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) Office of Data Science and Sharing and MIT Lincoln Laboratory 
@@ -122,7 +122,7 @@ The resulting Data Dictionary provides a standardized, reusable framework that e
 - Quantitative and qualitative ecosystem analysis 
 - Identification of opportunities for improvements to or alignment across repositories
 
-## How to Use the NICHD Data Ecosystem Assessment Data Dictionary v1.2 to Conduct Assessments
+## <a id="how-to-use"></a>How to Use the NICHD Data Ecosystem Assessment Data Dictionary to Conduct Assessments
 Follow these steps to apply the NICHD Data Ecosystem Assessment Data Dictionary to assess a repository: 
 
 1. **Select a repository to assess**: Identify a repository relevant to NICHD or your research needs. 
