@@ -127,7 +127,7 @@ Follow these steps to apply the NICHD Data Ecosystem Assessment Data Dictionary 
 
 1. **Select a repository to assess**: Identify a repository relevant to NICHD or your research needs. 
 
-2. **Download the Data Dictionary v1.2**: Use the version provided on this GitHub page to ensure consistent variable definitions and response options. 
+2. **Download the Data Dictionary v1.2**: Use the version provided on [this GitHub page](https://github.com/NIH-NICHD-Ecosystem/E7-NICHD-Data-Ecosystem-Assessment/tree/main/Documentation) to ensure consistent variable definitions and response options. 
 
 3. **Review repository materials**: Examine publicly available documentation, including: 
     - Repository website 
